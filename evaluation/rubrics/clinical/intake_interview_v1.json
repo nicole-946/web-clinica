@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "specialty": "clinical",
+  "dimensions": [
+    {
+      "id": "active_listening",
+      "label": "Escucha activa",
+      "indicators": ["paraphrase", "reflection", "summarization"]
+    },
+    {
+      "id": "validation",
+      "label": "Validación emocional",
+      "indicators": ["normalize_emotion", "acknowledge_experience"]
+    },
+    {
+      "id": "question_quality",
+      "label": "Calidad de preguntas",
+      "indicators": ["open_vs_closed_ratio", "leading_questions"]
+    }
+  ]
+}
